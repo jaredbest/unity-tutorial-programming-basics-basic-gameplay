@@ -5,6 +5,6 @@
 # Course Repo
 
 - **Title:** Programming Basics: Unit 2 - Basic Gameplay
-- **Taught by:** Unity Technologies
+- **Instructor:** Unity Technologies
 - **Platform:** Unity Learn
 - **Note(s):**
